@@ -1,0 +1,26 @@
+{
+  "name": "palmtree",
+  "version": "1.0.0",
+  "description": "Client-side library for connecting to Palmtree websocket data streams =====================================================================",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cronelab/palmtree.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cronelab/palmtree.js/issues"
+  },
+  "homepage": "https://github.com/cronelab/palmtree.js#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
